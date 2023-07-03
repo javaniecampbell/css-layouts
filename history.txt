@@ -1,0 +1,9 @@
+
+    Directory: C:\Users\jc601810\workspace\Learnings\css-layouts
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d----           8/15/2020 12:50 PM                basic-website
+-a---            7/2/2023  8:52 PM             66 .gitattributes
+-a---            7/3/2023 12:22 AM              0 history.txt
+
